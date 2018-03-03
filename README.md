@@ -31,3 +31,5 @@ Run:
 $ python fruitsClassifier.py
 ```
 ![alt tag](https://imgur.com/a/J6ANo)
+
+http://www.jiaaro.com/KNN-for-humans
